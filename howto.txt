@@ -1,0 +1,15 @@
+django-admin startproject project_name
+"it create basic django project"/"it make home from you manage all"
+
+python manage.py startapp app_name
+"it make your app with basic files "/"like make home corner for you"
+
+python manage.py runserver
+"run your project on server"
+
+python manage.py makemigration
+"all chnge detect"
+
+python manage.py migrate
+'make basic data handiling files'/'make databse files'
+
